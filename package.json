@@ -1,0 +1,17 @@
+{
+  "name": "web-3-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "transfer": "tsc -b && node dist/sendSol.js" , 
+    "getBalance": "tsc -b && node dist/getBalance.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.98.2",
+    "typescript": "^5.8.3"
+  }
+}
