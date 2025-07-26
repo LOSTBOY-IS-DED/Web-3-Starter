@@ -59,3 +59,7 @@ Send SPL tokens instead of SOL
 Connect to different clusters (devnet, testnet, or your local validator)
 
 Build your own wallet UI
+
+## NOTE 
+
+adding SPL token to another repo will attach it later 
